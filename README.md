@@ -29,7 +29,7 @@
 
 - **AI Resume Analyzer** — analyzes a resume and suggests skills to highlight or improve  
   Stack: Next.js, Node, OpenAI | Inspired by Adrian Hajdin’s build  
-  Code: https://github.com/adrianhajdin/ai-resume-analyzer (my fork WIP)
+  Code: https://github.com/IbrahimKom/ai-resume-analyzer (my fork WIP)
 
 - **Portfolio Website** — modern, responsive portfolio with projects & contact  
   Stack: HTML/CSS/JS (migrating to Next.js + Supabase)  
